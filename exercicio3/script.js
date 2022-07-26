@@ -1,6 +1,6 @@
 //Crie a const para a frase aqui
 
-/*A partir da frase a seguir, faça o que se pede
+/*A partir da frase a seguir, faça o que se pede.
 
 ```
 Jorge tem uma casa verde e com portão azul, com os dizeres: "BOAS VINDAS, mas não deixe o gato sair"

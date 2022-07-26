@@ -13,8 +13,12 @@
 // c) Substitua os traços `________` por “sticioso”.
 
 const minhaString = "Eu não sou supersticioso, mas sou um pouco ________.      "
-console.log(minhaString.trim())
+console.log(minhaString)
 console.log(minhaString.length)
+
+const minhaStringTrim = minhaString.trim()
+console.log(minhaStringTrim)
+console.log(minhaStringTrim.length)
 
 const novaString = minhaString.replaceAll("________","sticioso")
 console.log(novaString)

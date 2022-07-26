@@ -8,7 +8,7 @@
 //     - Comida3
 //     ```
     
-// Você deve usar apenas um `console.log()` para isso
+// Você deve usar apenas um `console.log()` para isso.
 
 const nome = prompt("Qual o seu nome?")
 const comida1 = prompt("Qual sua primeira comida favorita?")
